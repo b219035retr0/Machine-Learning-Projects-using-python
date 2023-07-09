@@ -1,6 +1,6 @@
 
 <picture>
-  <source media="[(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://static.javatpoint.com/tutorial/machine-learning/images/deep-learning-vs-machine-learning-vs-artificial-intelligence1.png)">
+  <source media="[(prefers-color-scheme: dark)" srcset="(https://static.javatpoint.com/tutorial/machine-learning/images/deep-learning-vs-machine-learning-vs-artificial-intelligence1.png)">
 </picture>
 <br>
 # mlprojects
